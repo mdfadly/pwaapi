@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Leopard","category":"Goldenrod"},
+{"id":2,"name":"Jackal, black-backed","category":"Khaki"},
+{"id":3,"name":"Brush-tailed phascogale","category":"Crimson"},
+{"id":4,"name":"Ring-tailed possum","category":"Maroon"},
+{"id":5,"name":"Tamandua, southern","category":"Indigo"},
+{"id":6,"name":"Blue peacock","category":"Green"},
+{"id":7,"name":"White-throated robin","category":"Fuscia"},
+{"id":8,"name":"Legaan, water","category":"Goldenrod"},
+{"id":9,"name":"Neotropic cormorant","category":"Aquamarine"},
+{"id":10,"name":"Radiated tortoise","category":"Green"},
+{"id":11,"name":"Duck, white-faced whistling","category":"Puce"},
+{"id":12,"name":"Mississippi alligator","category":"Pink"},
+{"id":13,"name":"Turtle, snake-necked","category":"Mauv"},
+{"id":14,"name":"Sage hen","category":"Khaki"},
+{"id":15,"name":"Wagtail, african pied","category":"Puce"},
+{"id":16,"name":"Dog, black-tailed prairie","category":"Mauv"},
+{"id":17,"name":"Red-tailed phascogale","category":"Mauv"},
+{"id":18,"name":"Dove, ring","category":"Orange"},
+{"id":19,"name":"Tammar wallaby","category":"Yellow"},
+{"id":20,"name":"Painted stork","category":"Khaki"}
+]
+}
